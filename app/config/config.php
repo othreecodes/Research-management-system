@@ -8,10 +8,10 @@ $config['SITE_PATH'] = $_SERVER['DOCUMENT_ROOT'].'/research_management/';
 
 
 //DATABASE CONFIGURATION
-$config['DB_HOST'] = 'localhost';
-$config['DB_USER'] = 'root';
-$config['DB_PASS'] = '';
-$config['DB_NAME'] = 'research_management';
+$config['DB_HOST'] = 'bbj31ma8tye2kagi.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+$config['DB_USER'] = 'myq80cjjev0e25la';
+$config['DB_PASS'] = 'fy8c9r9z31or4r9u';
+$config['DB_NAME'] = 'jkfxakqn6fuo9k1v';
 
 
 //EMAIL CONFIGURATION
